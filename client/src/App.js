@@ -1,8 +1,8 @@
 import React from 'react';
 
-function App(){
+const App=()=>{
      return(
-        <div>s
+        <div>
         <h1>App</h1>
         
          </div>
